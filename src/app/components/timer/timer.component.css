@@ -1,0 +1,19 @@
+.timer {
+    display: flex;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.unit {
+    padding: 1em
+}
+
+.timer .unit strong {
+    display: block;
+    font-size: 2em;
+}
+
+.timer .unit span {
+    color: gray;
+    font-size: 1em;
+}

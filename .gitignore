@@ -46,4 +46,4 @@ testem.log
 Thumbs.db
 
 #Package Lock Json
-package.lock.json
+package-lock.json
